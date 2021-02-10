@@ -1,0 +1,5 @@
+"Id","OwnerId","IsDeleted","Name","CreatedDate","CreatedById","LastModifiedDate","LastModifiedById","SystemModstamp","LLC_BI__Screen_Section__c","nPortal__Is_Portal_Enabled__c","LLC_BI__Category__c"
+"a3t5w000000I4VXAA0","0055w00000BkiP4AAJ","","Check","2020-05-14T11:38:20.000Z","0055w00000BkiP4AAJ","2020-05-14T11:38:20.000Z","0055w00000BkiP4AAJ","","","false",""
+"a3t5w000000I4VYAA0","0055w00000BkiP4AAJ","","ACH","2020-05-14T11:38:20.000Z","0055w00000BkiP4AAJ","2020-05-14T11:38:20.000Z","0055w00000BkiP4AAJ","","","true",""
+"a3t5w000000I4VZAA0","0055w00000BkiP4AAJ","","Debit Card","2020-05-14T11:38:20.000Z","0055w00000BkiP4AAJ","2020-05-14T11:38:20.000Z","0055w00000BkiP4AAJ","","","false",""
+"a3t5w000000I4VaAAK","0055w00000BkiP4AAJ","","Wire","2020-05-14T11:38:20.000Z","0055w00000BkiP4AAJ","2020-05-14T11:38:20.000Z","0055w00000BkiP4AAJ","","","false",""

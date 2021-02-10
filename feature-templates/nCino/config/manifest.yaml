@@ -1,0 +1,12 @@
+!!com.rabit.featuremigration.beans.vcstructure.ConfigManifest
+packageDirectories:
+  packagePaths:
+    dataset:
+      features:
+        01aNyD0W-Product Hierarchy:
+          path: dataset/01aNyD0W-Product Hierarchy
+          prefix: ncino
+          standardFeature: false
+          versions:
+            Spring 2020 V1:
+              modifiedDate: '2021-02-10 15:16:32'

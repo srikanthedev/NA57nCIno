@@ -1,0 +1,75 @@
+{
+  "name": "1_LLC_BI__Funding_Method_Type__c",
+  "attributes": [
+    "Id",
+    "OwnerId",
+    "IsDeleted",
+    "Name",
+    "CreatedDate",
+    "CreatedById",
+    "LastModifiedDate",
+    "LastModifiedById",
+    "SystemModstamp",
+    "LLC_BI__Screen_Section__c",
+    "nPortal__Is_Portal_Enabled__c",
+    "LLC_BI__Category__c"
+  ],
+  "records": {
+    "1": {
+      "CreatedById": "0055w00000BkiP4AAJ",
+      "CreatedDate": "2020-05-14T11:38:20.000Z",
+      "Id": "a3t5w000000I4VYAA0",
+      "IsDeleted": "",
+      "LLC_BI__Category__c": "",
+      "LLC_BI__Screen_Section__c": "",
+      "LastModifiedById": "0055w00000BkiP4AAJ",
+      "LastModifiedDate": "2020-05-14T11:38:20.000Z",
+      "Name": "ACH",
+      "OwnerId": "0055w00000BkiP4AAJ",
+      "SystemModstamp": "",
+      "nPortal__Is_Portal_Enabled__c": "true"
+    },
+    "2": {
+      "CreatedById": "0055w00000BkiP4AAJ",
+      "CreatedDate": "2020-05-14T11:38:20.000Z",
+      "Id": "a3t5w000000I4VXAA0",
+      "IsDeleted": "",
+      "LLC_BI__Category__c": "",
+      "LLC_BI__Screen_Section__c": "",
+      "LastModifiedById": "0055w00000BkiP4AAJ",
+      "LastModifiedDate": "2020-05-14T11:38:20.000Z",
+      "Name": "Check",
+      "OwnerId": "0055w00000BkiP4AAJ",
+      "SystemModstamp": "",
+      "nPortal__Is_Portal_Enabled__c": "false"
+    },
+    "3": {
+      "CreatedById": "0055w00000BkiP4AAJ",
+      "CreatedDate": "2020-05-14T11:38:20.000Z",
+      "Id": "a3t5w000000I4VZAA0",
+      "IsDeleted": "",
+      "LLC_BI__Category__c": "",
+      "LLC_BI__Screen_Section__c": "",
+      "LastModifiedById": "0055w00000BkiP4AAJ",
+      "LastModifiedDate": "2020-05-14T11:38:20.000Z",
+      "Name": "Debit Card",
+      "OwnerId": "0055w00000BkiP4AAJ",
+      "SystemModstamp": "",
+      "nPortal__Is_Portal_Enabled__c": "false"
+    },
+    "4": {
+      "CreatedById": "0055w00000BkiP4AAJ",
+      "CreatedDate": "2020-05-14T11:38:20.000Z",
+      "Id": "a3t5w000000I4VaAAK",
+      "IsDeleted": "",
+      "LLC_BI__Category__c": "",
+      "LLC_BI__Screen_Section__c": "",
+      "LastModifiedById": "0055w00000BkiP4AAJ",
+      "LastModifiedDate": "2020-05-14T11:38:20.000Z",
+      "Name": "Wire",
+      "OwnerId": "0055w00000BkiP4AAJ",
+      "SystemModstamp": "",
+      "nPortal__Is_Portal_Enabled__c": "false"
+    }
+  }
+}

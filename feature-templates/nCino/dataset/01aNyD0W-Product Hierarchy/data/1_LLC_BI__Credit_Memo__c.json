@@ -1,0 +1,51 @@
+{
+  "name": "1_LLC_BI__Credit_Memo__c",
+  "attributes": [
+    "Id",
+    "OwnerId",
+    "IsDeleted",
+    "Name",
+    "CreatedDate",
+    "CreatedById",
+    "LastModifiedDate",
+    "LastModifiedById",
+    "SystemModstamp",
+    "LastActivityDate",
+    "LastViewedDate",
+    "LastReferencedDate",
+    "LLC_BI__Description__c",
+    "LLC_BI__Is_Template__c",
+    "LLC_BI__Screen__c",
+    "LLC_BI__lookupKey__c",
+    "LLC_BI__Object_API_Name__c",
+    "LLC_BI__Is_Disabled__c",
+    "LLC_BI__FScreen__c",
+    "LLC_BI__Linked_Placeholder_Id__c",
+    "AutorabitExtId__c"
+  ],
+  "records": {
+    "1": {
+      "AutorabitExtId__c": "",
+      "CreatedById": "0055w00000BkiP4AAJ",
+      "CreatedDate": "2020-05-14T11:38:20.000Z",
+      "Id": "a1H5w000007FW6zEAG",
+      "IsDeleted": "",
+      "LLC_BI__Description__c": "Default product package credit memo.",
+      "LLC_BI__FScreen__c": "",
+      "LLC_BI__Is_Disabled__c": "false",
+      "LLC_BI__Is_Template__c": "false",
+      "LLC_BI__Linked_Placeholder_Id__c": "",
+      "LLC_BI__Object_API_Name__c": "",
+      "LLC_BI__Screen__c": "",
+      "LLC_BI__lookupKey__c": "42119920337795786",
+      "LastActivityDate": "",
+      "LastModifiedById": "0055w00000BkiP4AAJ",
+      "LastModifiedDate": "2020-05-14T11:38:20.000Z",
+      "LastReferencedDate": "",
+      "LastViewedDate": "",
+      "Name": "Product Package Credit Memo",
+      "OwnerId": "0055w00000BkiP4AAJ",
+      "SystemModstamp": ""
+    }
+  }
+}

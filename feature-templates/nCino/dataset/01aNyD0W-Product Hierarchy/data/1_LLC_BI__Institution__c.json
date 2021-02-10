@@ -1,0 +1,62 @@
+{
+  "name": "1_LLC_BI__Institution__c",
+  "attributes": [
+    "Id",
+    "OwnerId",
+    "IsDeleted",
+    "Name",
+    "CreatedDate",
+    "CreatedById",
+    "LastModifiedDate",
+    "LastModifiedById",
+    "SystemModstamp",
+    "LLC_BI__Brand__c",
+    "LLC_BI__Community_Extension__c",
+    "LLC_BI__Community_Name__c",
+    "LLC_BI__Community_Network_ID__c",
+    "LLC_BI__Look_Up_Key__c",
+    "LLC_BI__LookupKey__c",
+    "LLC_BI__Permission_Set__c",
+    "AutorabitExtId__c"
+  ],
+  "records": {
+    "1": {
+      "AutorabitExtId__c": "",
+      "CreatedById": "0055w00000BkiP4AAJ",
+      "CreatedDate": "2020-05-14T11:38:20.000Z",
+      "Id": "a4q5w000000QnPdAAK",
+      "IsDeleted": "",
+      "LLC_BI__Brand__c": "",
+      "LLC_BI__Community_Extension__c": "CustomerPortal",
+      "LLC_BI__Community_Name__c": "Customer Portal",
+      "LLC_BI__Community_Network_ID__c": "",
+      "LLC_BI__Look_Up_Key__c": "34652546354g5",
+      "LLC_BI__LookupKey__c": "",
+      "LLC_BI__Permission_Set__c": "nSightFinancial_Community",
+      "LastModifiedById": "0055w00000BkiP4AAJ",
+      "LastModifiedDate": "2020-05-14T11:38:20.000Z",
+      "Name": "nSight Financial",
+      "OwnerId": "0055w00000BkiP4AAJ",
+      "SystemModstamp": ""
+    },
+    "2": {
+      "AutorabitExtId__c": "",
+      "CreatedById": "0055w00000BkiP4AAJ",
+      "CreatedDate": "2020-05-14T11:38:20.000Z",
+      "Id": "a4q5w000000QnPeAAK",
+      "IsDeleted": "",
+      "LLC_BI__Brand__c": "",
+      "LLC_BI__Community_Extension__c": "CustomerPortal2",
+      "LLC_BI__Community_Name__c": "Customer Portal 2",
+      "LLC_BI__Community_Network_ID__c": "",
+      "LLC_BI__Look_Up_Key__c": "g67rtfthf5y7",
+      "LLC_BI__LookupKey__c": "",
+      "LLC_BI__Permission_Set__c": "nSightFinancialPersonal_Community",
+      "LastModifiedById": "0055w00000BkiP4AAJ",
+      "LastModifiedDate": "2020-05-14T11:38:20.000Z",
+      "Name": "nSight Financial Personal",
+      "OwnerId": "0055w00000BkiP4AAJ",
+      "SystemModstamp": ""
+    }
+  }
+}

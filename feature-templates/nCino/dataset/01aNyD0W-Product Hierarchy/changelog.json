@@ -1,0 +1,9 @@
+{
+  "orgName": "ncino.com-XvpRSM",
+  "key": "ncino-product hierarchy_spring 2020 v1",
+  "featureName": "ncino-Product Hierarchy",
+  "version": "Spring 2020 V1",
+  "changeLog": "Add LLC_BI__Product_Funding_Method_Type__c, LLC_BI__Funding_Method_Type__c, nFORCE__Screen__c, LLC_BI__Deposit_Rate_Structure__c, LLC_BI__Tier__c",
+  "createdBy": "erik.sinnard@ncino.com",
+  "createdDate": "2020-10-06 21:46:16"
+}

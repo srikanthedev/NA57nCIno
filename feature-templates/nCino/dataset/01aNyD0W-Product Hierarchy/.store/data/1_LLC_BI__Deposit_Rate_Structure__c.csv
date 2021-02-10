@@ -1,0 +1,7 @@
+"Id","OwnerId","IsDeleted","Name","CreatedDate","CreatedById","LastModifiedDate","LastModifiedById","SystemModstamp","LLC_BI__Is_Template__c","LLC_BI__Type__c","LLC_BI__lookupKey__c","Deposit__c"
+"a4X5w000007VquzEAC","0055w00000BkiP4AAJ","","Checking","2020-05-14T11:38:20.000Z","0055w00000BkiP4AAJ","2020-05-14T11:38:20.000Z","0055w00000BkiP4AAJ","","true","Tiered","",""
+"a4X5w000007Vqv0EAC","0055w00000BkiP4AAJ","","3 Year Step Up","2020-05-14T11:38:20.000Z","0055w00000BkiP4AAJ","2020-05-14T11:38:20.000Z","0055w00000BkiP4AAJ","","true","Time-Based","",""
+"a4X5w000007Vqv1EAC","0055w00000BkiP4AAJ","","2 Year Jumbo CD","2020-05-14T11:38:20.000Z","0055w00000BkiP4AAJ","2020-05-14T11:38:20.000Z","0055w00000BkiP4AAJ","","true","Single","",""
+"a4X5w000007Vqv2EAC","0055w00000BkiP4AAJ","","6 Month Promo","2020-05-14T11:38:20.000Z","0055w00000BkiP4AAJ","2020-05-14T11:38:20.000Z","0055w00000BkiP4AAJ","","true","Single","",""
+"a4X5w000007Vqv3EAC","0055w00000BkiP4AAJ","","5 Year Fixed","2020-05-14T11:38:20.000Z","0055w00000BkiP4AAJ","2020-05-14T11:38:20.000Z","0055w00000BkiP4AAJ","","true","Single","",""
+"a4X5w000007Vqv4EAC","0055w00000BkiP4AAJ","","Savings","2020-05-14T11:38:20.000Z","0055w00000BkiP4AAJ","2020-05-14T11:38:20.000Z","0055w00000BkiP4AAJ","","true","Single","",""

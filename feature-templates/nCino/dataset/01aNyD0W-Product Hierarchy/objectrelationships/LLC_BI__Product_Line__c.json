@@ -1,0 +1,284 @@
+[
+  {
+    "name": "nFORCE__Screen__c",
+    "cirrefobjfieldmap": {
+      "nFORCE__Screen_Section__c": "nFORCE__Screen__c"
+    },
+    "lookupobjfieldmap": {
+      "nFORCE__Screen_Section__c": "nFORCE__Screen__c",
+      "LLC_BI__Product_Feature__c": "LLC_BI__New_Loan_Additional_Fields__c",
+      "LLC_BI__Credit_Memo__c": "LLC_BI__FScreen__c",
+      "LLC_BI__Product__c": "nPortal__Online_Application_AS_Screen__c"
+    },
+    "recordtypeidmap": {},
+    "userlookupfields": [
+      "ownerid"
+    ],
+    "objectsetnum": 0
+  },
+  {
+    "name": "LLC_BI__Product_Feature__c",
+    "lookupobjfieldmap": {
+      "LLC_BI__Product__c": "LLC_BI__Product_Feature__c"
+    },
+    "recordtypeidmap": {},
+    "userlookupfields": [
+      "ownerid"
+    ],
+    "objectsetnum": 0
+  },
+  {
+    "name": "LLC_BI__Deposit_Rate_Structure__c",
+    "lookupobjfieldmap": {
+      "LLC_BI__Tier__c": "LLC_BI__Deposit_Rate_Structure__c",
+      "LLC_BI__Deposit__c": "LLC_BI__Deposit_Rate_Structure__c",
+      "LLC_BI__Product__c": "LLC_BI__Deposit_Rate_Structure__c"
+    },
+    "recordtypeidmap": {},
+    "userlookupfields": [
+      "ownerid"
+    ],
+    "objectsetnum": 0
+  },
+  {
+    "name": "nFORCE__Brand__c",
+    "lookupobjfieldmap": {
+      "LLC_BI__Institution__c": "LLC_BI__Brand__c"
+    },
+    "recordtypeidmap": {},
+    "userlookupfields": [
+      "ownerid"
+    ],
+    "objectsetnum": 0
+  },
+  {
+    "name": "nFORCE__Screen_Section__c",
+    "cirrefobjfieldmap": {
+      "nFORCE__Screen__c": "nFORCE__Screen__c"
+    },
+    "lookupobjfieldmap": {
+      "LLC_BI__Funding_Method_Type__c": "LLC_BI__Screen_Section__c",
+      "nFORCE__Screen_Section__c": "nFORCE__Parent_Screen_Section__c",
+      "LLC_BI__Product__c": "LLC_BI__Screen_Section__c"
+    },
+    "recordtypeidmap": {},
+    "objectsetnum": 0
+  },
+  {
+    "name": "LLC_BI__Tier__c",
+    "lookupobjfieldmap": {},
+    "recordtypeidmap": {},
+    "userlookupfields": [
+      "ownerid"
+    ],
+    "objectsetnum": 0
+  },
+  {
+    "name": "LLC_BI__Product_Line__c",
+    "lookupobjfieldmap": {
+      "Opportunity": "LLC_BI__Product_Line_Reference__c",
+      "LLC_BI__Product_Type__c": "LLC_BI__Product_Line__c"
+    },
+    "recordtypeidmap": {},
+    "userlookupfields": [
+      "ownerid"
+    ],
+    "objectsetnum": 0
+  },
+  {
+    "name": "LLC_BI__Institution__c",
+    "lookupobjfieldmap": {
+      "Account": "LLC_BI__Institution__c",
+      "LLC_BI__Product__c": "LLC_BI__Institution__c",
+      "LLC_BI__EmailTemplate_Institution__c": "LLC_BI__Institution__c"
+    },
+    "recordtypeidmap": {},
+    "userlookupfields": [
+      "ownerid"
+    ],
+    "objectsetnum": 0
+  },
+  {
+    "name": "LLC_BI__Funding_Method_Type__c",
+    "lookupobjfieldmap": {
+      "LLC_BI__Funding_Method__c": "LLC_BI__Funding_Method_Type__c",
+      "LLC_BI__Product_Funding_Method_Type__c": "LLC_BI__Funding_Method_Type__c"
+    },
+    "recordtypeidmap": {},
+    "userlookupfields": [
+      "ownerid"
+    ],
+    "objectsetnum": 0
+  },
+  {
+    "name": "Account",
+    "lookupobjfieldmap": {
+      "Account": "MasterRecordId,ParentId",
+      "LLC_BI__Product_Package__c": "LLC_BI__Account__c",
+      "Opportunity": "AccountId,PartnerAccountId",
+      "LLC_BI__Deposit__c": "LLC_BI__Account__c",
+      "LLC_BI__Loan__c": "LLC_BI__Account__c"
+    },
+    "recordtypeidmap": {
+      "EMEA - Vendor": "0125w000001EzFtAAK",
+      "Business with Connections": "0125w000001EzFUAA0",
+      "Household": "0125w000001EzFVAA0",
+      "Vendor": "0125w000001EzFTAA0",
+      "EMEA - Business with Connections": "0125w000001EzFpAAK",
+      "EMEA - Lender": "0125w000001EzFqAAK",
+      "Lender": "0125w000001EzFSAA0",
+      "Onboarding": "0125w000001EzGvAAK",
+      "SBA Business": "0125w000001EzGfAAK",
+      "EMEA Referral Source": "0125w000001EzGqAAK",
+      "EMEA - Individual": "0125w000001EzFuAAK",
+      "EMEA - Individual with Connections": "0125w000001EzFvAAK",
+      "Individual": "0125w000001EzFPAA0",
+      "Individual with Connections": "0125w000001EzFQAA0",
+      "Referral Source": "0125w000001EzGoAAK",
+      "SBA Individual": "0125w000001EzGeAAK",
+      "EMEA - Household": "0125w000001EzFsAAK",
+      "EMEA - Business": "0125w000001EzFrAAK",
+      "Business": "0125w000001EzFRAA0"
+    },
+    "userlookupfields": [
+      "ownerid"
+    ],
+    "objectsetnum": 0
+  },
+  {
+    "name": "LLC_BI__Product_Type__c",
+    "lookupobjfieldmap": {
+      "LLC_BI__Product_State_Config__c": "LLC_BI__Product_Type__c",
+      "Opportunity": "LLC_BI__Product_Type_Reference__c",
+      "LLC_BI__Bill_Point__c": "LLC_BI__Product_Type__c",
+      "LLC_BI__Product__c": "LLC_BI__Product_Type__c"
+    },
+    "recordtypeidmap": {},
+    "objectsetnum": 0
+  },
+  {
+    "name": "LLC_BI__Credit_Memo__c",
+    "lookupobjfieldmap": {
+      "LLC_BI__Product_Package__c": "LLC_BI__Credit_Memo__c",
+      "LLC_BI__Loan__c": "LLC_BI__Credit_Memo__c"
+    },
+    "recordtypeidmap": {},
+    "userlookupfields": [
+      "ownerid"
+    ],
+    "objectsetnum": 0
+  },
+  {
+    "name": "LLC_BI__EmailTemplate_Institution__c",
+    "lookupobjfieldmap": {},
+    "recordtypeidmap": {},
+    "userlookupfields": [
+      "ownerid"
+    ],
+    "objectsetnum": 0
+  },
+  {
+    "name": "LLC_BI__Funding_Method__c",
+    "lookupobjfieldmap": {
+      "LLC_BI__Deposit__c": "LLC_BI__Funding_Method__c"
+    },
+    "recordtypeidmap": {},
+    "userlookupfields": [
+      "ownerid"
+    ],
+    "objectsetnum": 0
+  },
+  {
+    "name": "LLC_BI__Product_Package__c",
+    "lookupobjfieldmap": {
+      "Opportunity": "LLC_BI__Product_Package__c",
+      "LLC_BI__Deposit__c": "LLC_BI__Product_Package__c",
+      "LLC_BI__Loan__c": "LLC_BI__Product_Package__c"
+    },
+    "recordtypeidmap": {},
+    "userlookupfields": [
+      "llc_bi__primary_officer__c",
+      "llc_bi__secondary_officer__c",
+      "x1st_approver__c",
+      "x2nd_approver__c",
+      "ownerid"
+    ],
+    "objectsetnum": 0
+  },
+  {
+    "name": "LLC_BI__Product__c",
+    "lookupobjfieldmap": {
+      "Opportunity": "LLC_BI__Product_Reference__c",
+      "LLC_BI__Bill_Point__c": "LLC_BI__Product__c",
+      "LLC_BI__Deposit__c": "LLC_BI__Product_Reference__c",
+      "LLC_BI__Product_Funding_Method_Type__c": "LLC_BI__Product__c",
+      "LLC_BI__Product_Connection__c": "LLC_BI__Child_Product_Reference__c,LLC_BI__Parent_Product_Reference__c",
+      "LLC_BI__Loan__c": "LLC_BI__Product_Reference__c"
+    },
+    "recordtypeidmap": {
+      "Loan Product Layout": "0125w000001EzGkAAK",
+      "Treasury Layout": "0125w000001EzGlAAK",
+      "Deposit Product Layout": "0125w000001EzGjAAK"
+    },
+    "objectsetnum": 0
+  },
+  {
+    "name": "LLC_BI__Deposit__c",
+    "lookupobjfieldmap": {
+      "Opportunity": "LLC_BI__Converted_Deposit__c",
+      "LLC_BI__Deposit__c": "LLC_BI__Related_Deposit__c"
+    },
+    "recordtypeidmap": {
+      "Savings Record Type": "0125w000001EzFZAA0",
+      "CD Record Type": "0125w000001EzFYAA0",
+      "Checking/DDA Record Type": "0125w000001EzFWAA0",
+      "IRA Record Type": "0125w000001EzFXAA0"
+    },
+    "userlookupfields": [
+      "llc_bi__financial_institution_authorized_signer__c",
+      "ownerid"
+    ],
+    "objectsetnum": 0
+  },
+  {
+    "name": "LLC_BI__Product_Connection__c",
+    "lookupobjfieldmap": {},
+    "recordtypeidmap": {},
+    "userlookupfields": [
+      "ownerid"
+    ],
+    "objectsetnum": 0
+  },
+  {
+    "name": "LLC_BI__Product_State_Config__c",
+    "lookupobjfieldmap": {},
+    "recordtypeidmap": {},
+    "objectsetnum": 0
+  },
+  {
+    "name": "Opportunity",
+    "lookupobjfieldmap": {
+      "Opportunity": "Linked_Opportunity__c"
+    },
+    "recordtypeidmap": {
+      "FSC Opportunity": "0125w000001EzFNAA0",
+      "Lease": "0125w000001EzGpAAK",
+      "Loan": "0125w000001EzFMAA0",
+      "Treasury Management": "0125w000001EzFOAA0"
+    },
+    "userlookupfields": [
+      "ownerid",
+      "internal_referrer__c"
+    ],
+    "objectsetnum": 0
+  },
+  {
+    "name": "LLC_BI__Bill_Point__c",
+    "lookupobjfieldmap": {},
+    "recordtypeidmap": {},
+    "userlookupfields": [
+      "ownerid"
+    ],
+    "objectsetnum": 0
+  }
+]

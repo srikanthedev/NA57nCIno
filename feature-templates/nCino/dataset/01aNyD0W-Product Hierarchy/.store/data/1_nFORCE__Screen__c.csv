@@ -1,0 +1,5 @@
+"Id","OwnerId","IsDeleted","Name","CreatedDate","CreatedById","LastModifiedDate","LastModifiedById","SystemModstamp","LastActivityDate","nFORCE__Disable_Print__c","nFORCE__Show_Link_To_Context_Object__c","nFORCE__lookupKey__c","AutorabitExtId__c"
+"a345w0000036vjsAAA","0055w00000BkiP4AAJ","","Online Banking","2020-05-14T11:38:20.000Z","0055w00000BkiP4AAJ","2020-05-14T11:38:20.000Z","0055w00000BkiP4AAJ","","","false","true","",""
+"a345w0000036vjtAAA","0055w00000BkiP4AAJ","","Overdraft Protection","2020-05-14T11:38:20.000Z","0055w00000BkiP4AAJ","2020-05-14T11:38:20.000Z","0055w00000BkiP4AAJ","","","false","true","",""
+"a345w0000036vjuAAA","0055w00000BkiP4AAJ","","Default Loan Facility Creation Fields","2020-05-14T11:38:20.000Z","0055w00000Cu9fGAAR","2021-01-28T16:48:56.000Z","0055w00000BkiP4AAJ","","","false","true","42280894319758149","a345w0000036vjuAAA"
+"a345w0000036vjwAAA","0055w00000BkiP4AAJ","","Product Package Credit Memo","2020-05-14T11:38:20.000Z","0055w00000BkiP4AAJ","2020-05-14T11:38:20.000Z","0055w00000BkiP4AAJ","","","false","true","42927115042672124",""

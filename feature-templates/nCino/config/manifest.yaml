@@ -10,3 +10,10 @@ packageDirectories:
           versions:
             Spring 2020 V1:
               modifiedDate: '2021-02-10 15:16:32'
+        01wKvT0F-BTest:
+          path: dataset/01wKvT0F-BTest
+          prefix: AR_57_nCin
+          standardFeature: false
+          versions:
+            '99':
+              modifiedDate: '2021-02-10 15:30:30'

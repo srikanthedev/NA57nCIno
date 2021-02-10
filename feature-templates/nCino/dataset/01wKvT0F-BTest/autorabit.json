@@ -1,0 +1,15 @@
+{
+  "prefix": "AR_57_nCin",
+  "packageDirectories": {
+    "99": {
+      "metadata": {
+        "exclude": {
+          "CustomObject": []
+        }
+      },
+      "data": {
+        "exclude": {}
+      }
+    }
+  }
+}

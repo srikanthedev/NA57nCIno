@@ -1,0 +1,14 @@
+[
+  {
+    "name": "LLC_BI__Branch__c",
+    "lookupobjfieldmap": {},
+    "recordtypeidmap": {
+      "EMEA Branches": "0125w000001EzGsAAK",
+      "US Branches": "0125w000001EzGtAAK"
+    },
+    "userlookupfields": [
+      "ownerid"
+    ],
+    "objectsetnum": 0
+  }
+]
